@@ -1,7 +1,7 @@
-Helping Hands
+<h1>Helping Hands</h1>
 
-Version 1
-Website for Helping Hands. Helping Hands is a mock street ministry bringing hope to the homeless population in Vancouver, WA.
+<h2>Version 1</h2>
+<p> Website for Helping Hands. Helping Hands is a mock street ministry bringing hope to the homeless population in Vancouver, WA.</p>
 
 Description
 A website that shows visitors who Helping Hands serves, shares the mission statement, shows the vision and provides information on how visitors can become involved.
