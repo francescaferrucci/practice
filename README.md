@@ -29,8 +29,8 @@
 <p>To be utilized between collaborators.</p>
 
 <h2>Support</h2>
-<p>For questions regarding project, contact Francesca at cescaferrucci@gmail.com.</p>
+<p>For questions regarding project, contact Francesca at <cescaferrucci@gmail.com>.</p>
 
 <h2>License</h2>
-<p>[MIT] (https://opensource.org/licenses/MIT)</p>
+<p>**[MIT](https://opensource.org/licenses/MIT)**</p>
 
